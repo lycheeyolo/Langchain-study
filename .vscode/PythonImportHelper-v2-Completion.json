@@ -1,0 +1,475 @@
+[
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Type",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Type",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTool",
+        "importPath": "langchain_core.tools",
+        "description": "langchain_core.tools",
+        "isExtraImport": true,
+        "detail": "langchain_core.tools",
+        "documentation": {}
+    },
+    {
+        "label": "ToolException",
+        "importPath": "langchain_core.tools",
+        "description": "langchain_core.tools",
+        "isExtraImport": true,
+        "detail": "langchain_core.tools",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTool",
+        "importPath": "langchain_core.tools",
+        "description": "langchain_core.tools",
+        "isExtraImport": true,
+        "detail": "langchain_core.tools",
+        "documentation": {}
+    },
+    {
+        "label": "ToolException",
+        "importPath": "langchain_core.tools",
+        "description": "langchain_core.tools",
+        "isExtraImport": true,
+        "detail": "langchain_core.tools",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "akshare",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "akshare",
+        "description": "akshare",
+        "detail": "akshare",
+        "documentation": {}
+    },
+    {
+        "label": "langchain_core.messages",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "AIMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "AIMessageChunk",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "DoubaoModel",
+        "importPath": "model",
+        "description": "model",
+        "isExtraImport": true,
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "TavilySearch",
+        "importPath": "langchain_tavily",
+        "description": "langchain_tavily",
+        "isExtraImport": true,
+        "detail": "langchain_tavily",
+        "documentation": {}
+    },
+    {
+        "label": "StockSearch",
+        "importPath": "tools.seacrhStock",
+        "description": "tools.seacrhStock",
+        "isExtraImport": true,
+        "detail": "tools.seacrhStock",
+        "documentation": {}
+    },
+    {
+        "label": "GetStockId",
+        "importPath": "tools.checkStockid",
+        "description": "tools.checkStockid",
+        "isExtraImport": true,
+        "detail": "tools.checkStockid",
+        "documentation": {}
+    },
+    {
+        "label": "MemorySaver",
+        "importPath": "langgraph.checkpoint.memory",
+        "description": "langgraph.checkpoint.memory",
+        "isExtraImport": true,
+        "detail": "langgraph.checkpoint.memory",
+        "documentation": {}
+    },
+    {
+        "label": "create_react_agent",
+        "importPath": "langgraph.prebuilt",
+        "description": "langgraph.prebuilt",
+        "isExtraImport": true,
+        "detail": "langgraph.prebuilt",
+        "documentation": {}
+    },
+    {
+        "label": "getpass",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "getpass",
+        "description": "getpass",
+        "detail": "getpass",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "init_chat_model",
+        "importPath": "langchain.chat_models",
+        "description": "langchain.chat_models",
+        "isExtraImport": true,
+        "detail": "langchain.chat_models",
+        "documentation": {}
+    },
+    {
+        "label": "RunnableSequence",
+        "importPath": "langchain_core.runnables",
+        "description": "langchain_core.runnables",
+        "isExtraImport": true,
+        "detail": "langchain_core.runnables",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "GetStockIdInput",
+        "kind": 6,
+        "importPath": "examples.tools.checkStockid",
+        "description": "examples.tools.checkStockid",
+        "peekOfCode": "class GetStockIdInput(BaseModel):\n    stockname: str = Field(description=\"要查询股票代码的股票名称\")\nclass GetStockId(BaseTool):\n    \"\"\"Tool that get stock id by given stock name\n    \"\"\"\n    name: str = \"get_stock_id\"\n    description: str = (\n        \"a search engine for getting stock id by given stock name.\"\n        \"Useful for when you need to get the id of a certain stock name.\" \\\n        \"Input shout be a stock name\"",
+        "detail": "examples.tools.checkStockid",
+        "documentation": {}
+    },
+    {
+        "label": "GetStockId",
+        "kind": 6,
+        "importPath": "examples.tools.checkStockid",
+        "description": "examples.tools.checkStockid",
+        "peekOfCode": "class GetStockId(BaseTool):\n    \"\"\"Tool that get stock id by given stock name\n    \"\"\"\n    name: str = \"get_stock_id\"\n    description: str = (\n        \"a search engine for getting stock id by given stock name.\"\n        \"Useful for when you need to get the id of a certain stock name.\" \\\n        \"Input shout be a stock name\"\n    )\n    args_schema: Type[BaseModel] = GetStockIdInput",
+        "detail": "examples.tools.checkStockid",
+        "documentation": {}
+    },
+    {
+        "label": "StockSearchInput",
+        "kind": 6,
+        "importPath": "examples.tools.seacrhStock",
+        "description": "examples.tools.seacrhStock",
+        "peekOfCode": "class StockSearchInput(BaseModel):\n    stockid: str = Field(description=\"要查询信息的股票stockid\")\nclass StockSearch(BaseTool):\n    \"\"\"Tool that search Stack statistic information\n    \"\"\"\n    name: str = \"stack_search\"\n    description: str = (\n        \"a search engine for getting statistic information about given stock id.\"\n        \"Useful for when you need to analysis a stock.\" \\\n        \"Input shout be a stock id, like 000001\"",
+        "detail": "examples.tools.seacrhStock",
+        "documentation": {}
+    },
+    {
+        "label": "StockSearch",
+        "kind": 6,
+        "importPath": "examples.tools.seacrhStock",
+        "description": "examples.tools.seacrhStock",
+        "peekOfCode": "class StockSearch(BaseTool):\n    \"\"\"Tool that search Stack statistic information\n    \"\"\"\n    name: str = \"stack_search\"\n    description: str = (\n        \"a search engine for getting statistic information about given stock id.\"\n        \"Useful for when you need to analysis a stock.\" \\\n        \"Input shout be a stock id, like 000001\"\n    )\n    args_schema: Type[BaseModel] = StockSearchInput",
+        "detail": "examples.tools.seacrhStock",
+        "documentation": {}
+    },
+    {
+        "label": "memory",
+        "kind": 5,
+        "importPath": "examples.agent",
+        "description": "examples.agent",
+        "peekOfCode": "memory = MemorySaver()\nmodel = DoubaoModel()\nstocksearch = StockSearch()\ngetstockid = GetStockId()\ntools = [stocksearch, getstockid]\nagent = create_react_agent(model, tools, checkpointer=memory)\nconfig = {\"configurable\": {\"thread_id\": \"abc123\"}}\ntry:\n    while True:\n        try:",
+        "detail": "examples.agent",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "examples.agent",
+        "description": "examples.agent",
+        "peekOfCode": "model = DoubaoModel()\nstocksearch = StockSearch()\ngetstockid = GetStockId()\ntools = [stocksearch, getstockid]\nagent = create_react_agent(model, tools, checkpointer=memory)\nconfig = {\"configurable\": {\"thread_id\": \"abc123\"}}\ntry:\n    while True:\n        try:\n            user_input = input(\">>> \")",
+        "detail": "examples.agent",
+        "documentation": {}
+    },
+    {
+        "label": "stocksearch",
+        "kind": 5,
+        "importPath": "examples.agent",
+        "description": "examples.agent",
+        "peekOfCode": "stocksearch = StockSearch()\ngetstockid = GetStockId()\ntools = [stocksearch, getstockid]\nagent = create_react_agent(model, tools, checkpointer=memory)\nconfig = {\"configurable\": {\"thread_id\": \"abc123\"}}\ntry:\n    while True:\n        try:\n            user_input = input(\">>> \")\n            user_input = \"我想分析688768这只股票。\"",
+        "detail": "examples.agent",
+        "documentation": {}
+    },
+    {
+        "label": "getstockid",
+        "kind": 5,
+        "importPath": "examples.agent",
+        "description": "examples.agent",
+        "peekOfCode": "getstockid = GetStockId()\ntools = [stocksearch, getstockid]\nagent = create_react_agent(model, tools, checkpointer=memory)\nconfig = {\"configurable\": {\"thread_id\": \"abc123\"}}\ntry:\n    while True:\n        try:\n            user_input = input(\">>> \")\n            user_input = \"我想分析688768这只股票。\"\n            input_message = {",
+        "detail": "examples.agent",
+        "documentation": {}
+    },
+    {
+        "label": "tools",
+        "kind": 5,
+        "importPath": "examples.agent",
+        "description": "examples.agent",
+        "peekOfCode": "tools = [stocksearch, getstockid]\nagent = create_react_agent(model, tools, checkpointer=memory)\nconfig = {\"configurable\": {\"thread_id\": \"abc123\"}}\ntry:\n    while True:\n        try:\n            user_input = input(\">>> \")\n            user_input = \"我想分析688768这只股票。\"\n            input_message = {\n                    \"role\": \"user\",",
+        "detail": "examples.agent",
+        "documentation": {}
+    },
+    {
+        "label": "agent",
+        "kind": 5,
+        "importPath": "examples.agent",
+        "description": "examples.agent",
+        "peekOfCode": "agent = create_react_agent(model, tools, checkpointer=memory)\nconfig = {\"configurable\": {\"thread_id\": \"abc123\"}}\ntry:\n    while True:\n        try:\n            user_input = input(\">>> \")\n            user_input = \"我想分析688768这只股票。\"\n            input_message = {\n                    \"role\": \"user\",\n                    \"content\": user_input",
+        "detail": "examples.agent",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "examples.agent",
+        "description": "examples.agent",
+        "peekOfCode": "config = {\"configurable\": {\"thread_id\": \"abc123\"}}\ntry:\n    while True:\n        try:\n            user_input = input(\">>> \")\n            user_input = \"我想分析688768这只股票。\"\n            input_message = {\n                    \"role\": \"user\",\n                    \"content\": user_input\n                }",
+        "detail": "examples.agent",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "examples.chatmodel",
+        "description": "examples.chatmodel",
+        "peekOfCode": "model = ChatOpenAI(\n    # 环境变量中配置您的API Key\n    openai_api_key=os.getenv(\"VOLCES_KEY\"), \n    # 替换为您需要调用的模型服务Base Url\n    openai_api_base=os.getenv(\"VOLCES_URL\"),\n    # 替换为您创建推理接入点 ID\n    model_name=os.getenv(\"VOLCES_MODEL_NAME\")\n)\nprint(model.invoke(\"你是谁？\"))\n# template = \"\"\"Question: {question}",
+        "detail": "examples.chatmodel",
+        "documentation": {}
+    },
+    {
+        "label": "DoubaoModel",
+        "kind": 6,
+        "importPath": "examples.model",
+        "description": "examples.model",
+        "peekOfCode": "class DoubaoModel(ChatOpenAI):\n    def __init__(self):\n        super().__init__(# 环境变量中配置您的API Key\n            openai_api_key=os.getenv(\"VOLCES_KEY\"), \n            # 替换为您需要调用的模型服务Base Url\n            openai_api_base=os.getenv(\"VOLCES_URL\"),\n            # 替换为您创建推理接入点 ID\n            model_name=os.getenv(\"VOLCES_MODEL_NAME\"))",
+        "detail": "examples.model",
+        "documentation": {}
+    }
+]
