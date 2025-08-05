@@ -12,11 +12,11 @@
 
     - 通过LangGraph构建一个最简单的chatbot:
         * 实例化大模型model；
-        * 构建State类，继承自typing.TypeDict,实际上就是一个字典对象；类内定义属性，也就是需要在Node之间保存记录的属性，类型是Annotation[实际类， 每次操作这个属性需要执行的函数]；
+        * 构建State类，继承自typing_extentions.TypedDict,实际上就是一个字典对象；类内定义属性，也就是需要在Node之间保存记录的属性，类型是typing.Annotated[实际类， 每次操作这个属性需要执行的函数]；
         * 构建Node函数，每一个Node都是一个函数，函数的参数是state，类型是上面定义的State类。函数返回键值对，对应state的属性，state会按照属性对应的需要执行的函数将函数返回值返回给state；
         * 创建一个构建图的实例，方式如下：
         ```python
-        graph_builder = GraphBuilder()
+        graph_builder = StateGraph()
         ```
         * 为图添加节点和边，注意，图的首届点是START, 尾节点是END。最后通过complie函数生成图graph。代码如下：
         ```python
